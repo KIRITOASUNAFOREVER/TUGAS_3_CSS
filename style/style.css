@@ -1,0 +1,27 @@
+p{
+  border-style: ridge;
+  background-color: grey;
+}
+
+#p_satu{
+  border-style: ridge;
+  background-color: orange;
+}
+
+#p_dua{
+  border-style: ridge;
+  background-color: blue;
+  color: white;
+}
+
+#p_tiga{
+  border-style: ridge;
+  font-family: monospace;
+  font-size: 18px;
+  background-color: white;
+}
+
+#p_empat{
+  border-style: ridge;
+  font-weight: bold;
+}
